@@ -1,0 +1,104 @@
+body {
+  text-align: center;
+  background:linear-gradient(to right,#fffacd,#fafad2,#ffffe0,#ffefd5,#ffdab9  )
+}
+
+h1 {
+  font-size: 5rem;
+  color: #1c129e;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #e3ebe1;
+
+}
+
+footer {
+  color: #064357;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 10px 20px 0 blueviolet;
+  opacity: 0.5;
+  
+}
+
+.red {
+  color: red;
+}
+
+
+.drum {
+  outline: none;
+  border: 5px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ff4500;
+  text-shadow: 3px 0 #0d2201;
+  border-radius: 15px;
+  display: inline-block;
+  width: 13%;
+  height: 450px;
+  text-align: center;
+  margin: 0px;
+  background-color: white;
+}
+.w{
+  background-image: url(./assets/1.jpg);
+  background-size: cover; /* Make the image fill the element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+}
+
+.a{
+  background-image: url(./assets/2.jpg);
+  background-size: cover; /* Make the image fill the element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+}
+
+.s{
+  background-image: url(./assets/3.jpg);
+  background-size: cover; /* Make the image fill the element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+}
+
+.d{
+  background-image: url(./assets/1.jpg);
+  background-size: cover; /* Make the image fill the element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+}
+
+.j{
+  background-image: url(./assets/2.jpg);
+  background-size: cover; /* Make the image fill the element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+}
+
+.k{
+  background-image: url(./assets/2.jpg);
+  background-size: cover; /* Make the image fill the element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+}
+
+.l{
+  background-image: url(./assets/3.jpg);
+  background-size: cover; /* Make the image fill the element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+}
